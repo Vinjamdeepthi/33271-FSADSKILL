@@ -15,7 +15,7 @@
         </property>
 
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">Amulya@123</property>
+        <property name="hibernate.connection.password">deeps888</property>
 
         <property name="hibernate.dialect">
             org.hibernate.dialect.MySQL8Dialect

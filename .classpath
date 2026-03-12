@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="skill2/HibernateInventory/src/main/java"/>
+	<classpathentry kind="src" path="skill2/skill3/hibernate-hql-skill3/src/main/java"/>
+	<classpathentry kind="src" path="skill3/hibernate-hql-skill3/src/main/java"/>
+	<classpathentry kind="src" path="skill4/s5-skill-exp4/src/main/java"/>
+	<classpathentry kind="src" path="skill4/s5-skill-exp4/src/test/java"/>
+	<classpathentry kind="src" path="skill5/s5-skill5/src/main/java"/>
+	<classpathentry kind="src" path="skill5/s5-skill5/src/test/java"/>
+	<classpathentry kind="src" path="skill6/skill-6-exp/src/main/java"/>
+	<classpathentry kind="src" path="skill6/skill-6-exp/src/test/java"/>
+	<classpathentry kind="src" path="skill7/skill-7-exp/src/main/java"/>
+	<classpathentry kind="src" path="skill7/skill-7-exp/src/test/java"/>
+	<classpathentry kind="src" path="skill8/fsad-skill-8/src/main/java"/>
+	<classpathentry kind="src" path="skill8/fsad-skill-8/src/test/java"/>
+	<classpathentry kind="output" path="skill2/HibernateInventory/target/classes"/>
+</classpath>
